@@ -29,6 +29,6 @@ This project is an AI-powered Multiple Choice Question (MCQ) Generator that uses
 - PDF Download: The generated PDF is saved, and a download button is presented for the user to download the quiz PDF.
 - PDF Display: The PDF is displayed within the Streamlit app using an embedded iframe.
 
-<!-- ## Demo:
-![Demo](demo_img/demo1.png)
-![Demo](demo_img/demo2.png) -->
+## Demo:
+<img src="demo_img/demo_1.png" alt="Demo" width="500" height="500" />
+<img src="demo_img/demo_2.png" alt="Demo" width="500" height="500" />
