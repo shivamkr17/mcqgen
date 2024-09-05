@@ -1,3 +1,7 @@
+ # MCQ Generator
+
+This project is an AI-powered Multiple Choice Question (MCQ) Generator that uses the **Google Generative AI** model (Gemini Pro) to create quizzes from text input or a PDF file. The application allows customization of the number of questions, subject, and difficulty level. The generated quizzes are analyzed for complexity, adjusted as needed, and can be downloaded as a PDF file.
+
 ## Libraries Used:
 - os & dotenv: For managing environment variables, particularly to fetch the Google API key for Google Generative AI.
 - json & base64: For handling JSON data (MCQs and quiz structure) and base64 encoding (for displaying the PDF).
